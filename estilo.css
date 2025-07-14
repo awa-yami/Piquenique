@@ -26,8 +26,8 @@ width: 40%;
 *{list-style: none;}
 
 article{
- margin-left: 900px;
-    margin-right: 900px;
+ margin-left: 100px;
+    margin-right: 100px;
     background-color: #8A9A5B;
     padding: 20px
 }
