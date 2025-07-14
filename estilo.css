@@ -26,10 +26,10 @@ width: 40%;
 *{list-style: none;}
 
 article{
+ margin-left: 250px;
+    margin-right: 250px;
     background-color: #D2B48C;
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 1em;
+    padding: 20px
 }
 
 header{
